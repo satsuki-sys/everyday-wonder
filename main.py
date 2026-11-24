@@ -7,8 +7,8 @@ of wonder in everyday life to /output/entry.txt.
 import os
 
 ENTRY = (
-    "The escalator handrail moves faster than the steps, "
-    "so for thirty seconds my hand is travelling without me."
+    "The escalator handrail outruns the steps, "
+    "so for thirty seconds my hand arrives before I do."
 )
 
 
